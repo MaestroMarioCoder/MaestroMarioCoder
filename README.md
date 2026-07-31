@@ -66,7 +66,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <strong>Backend</strong>
       <br><br>
       Node.js<br>
@@ -74,7 +74,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
       APIs REST<br>
       Microservicios
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <strong>Bases de datos</strong>
       <br><br>
       MySQL<br>
@@ -82,7 +82,15 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
       MongoDB<br>
       Supabase
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
+      <strong>Android y moviles</strong>
+      <br><br>
+      Kotlin<br>
+      Jetpack Compose<br>
+      Material 3<br>
+      Android Studio
+    </td>
+    <td width="25%" align="center">
       <strong>Entorno y herramientas</strong>
       <br><br>
       Linux<br>
