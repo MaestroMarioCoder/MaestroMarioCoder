@@ -56,7 +56,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
 ## Tecnologías y herramientas
 
 <img
-  src="https://skillicons.dev/icons?i=js,java,py,html,css,nodejs,express,mysql,postgres,mongodb,supabase,docker,linux,git,github,vscode,postman&perline=9&theme=dark"
+  src="https://skillicons.dev/icons?i=js,java,kotlin,androidstudio,py,html,css,nodejs,express,mysql,postgres,mongodb,supabase,docker,linux,git,github,vscode,postman&perline=9&theme=dark"
   alt="Tecnologías y herramientas"
 />
 
@@ -175,6 +175,40 @@ Proyecto académico basado en una arquitectura de microservicios para gestionar 
 
 <a href="https://github.com/arqui-apps/pedidos-now">
   <img src="https://img.shields.io/badge/VER_PROYECTO-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+
+### Primer Login En Android
+
+Aplicacion Android desarrollada con Kotlin y Jetpack Compose. Implementa un login futurista con fondo negro tipo Matrix, caracteres verdes y azules antes del acceso, y una alerta roja intermitente despues de iniciar sesion correctamente.
+
+**Caracteristicas principales:**
+
+- Interfaz creada con Jetpack Compose y Material 3
+- Animacion Matrix personalizada con Canvas
+- Validacion basica de acceso
+- Cambio visual dinamico segun el estado del login
+- Pantalla final con mensaje de alerta
+
+**Tecnologias utilizadas:**
+
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Android SDK
+- Gradle
+
+<a href="https://github.com/MaestroMarioCoder/Primer-Login-En-Android">
+  <img src="https://img.shields.io/badge/VER_PROYECTO-00E7FF?style=for-the-badge&logo=android&logoColor=000000"/>
 </a>
 
   </td>
