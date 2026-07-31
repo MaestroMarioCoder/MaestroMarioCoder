@@ -122,15 +122,25 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
   alt="Resumen de estadísticas de GitHub"
 />
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaestroMarioCoder&theme=github_dark"
-  alt="Repositorios por lenguaje"
-/>
+<table width="49%" align="center">
+  <tr>
+    <td align="center">
+      <strong>Lenguajes trabajados</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+      <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+      <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4"/>
+      <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+      <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-> Las estadísticas se calculan según la actividad y el código almacenado en los repositorios públicos; no representan necesariamente el nivel de dominio de cada tecnología.
+> Las estadísticas automáticas se calculan según la actividad en repositorios públicos. La lista de lenguajes muestra tecnologías trabajadas en proyectos y prácticas.
 
 ---
 
