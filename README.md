@@ -109,19 +109,19 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=MaestroMarioCoder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=7C3AED&text_color=FFFFFF&border_radius=15"
-  alt="Estadísticas de GitHub"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaestroMarioCoder&theme=github_dark"
+  alt="Resumen de estadísticas de GitHub"
 />
 
 <img
-  width="41%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaestroMarioCoder&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=FFFFFF&border_radius=15&size_weight=0.5&count_weight=0.5"
-  alt="Lenguajes más utilizados"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaestroMarioCoder&theme=github_dark"
+  alt="Repositorios por lenguaje"
 />
 
 </div>
 
-> Los lenguajes mostrados se calculan según el código almacenado en los repositorios y no representan necesariamente el nivel de dominio de cada tecnología.
+> Las estadísticas se calculan según la actividad y el código almacenado en los repositorios públicos; no representan necesariamente el nivel de dominio de cada tecnología.
 
 ---
 
