@@ -56,7 +56,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
 ## Tecnologías y herramientas
 
 <img
-  src="https://skillicons.dev/icons?i=js,java,kotlin,androidstudio,py,html,css,nodejs,express,mysql,postgres,mongodb,supabase,docker,linux,git,github,vscode,postman&perline=9&theme=dark"
+  src="https://skillicons.dev/icons?i=js,java,kotlin,cpp,cs,androidstudio,py,html,css,nodejs,express,mysql,postgres,mongodb,supabase,docker,linux,git,github,vscode,postman&perline=9&theme=dark"
   alt="Tecnologías y herramientas"
 />
 
@@ -66,7 +66,16 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
 
 <table>
   <tr>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
+      <strong>Lenguajes</strong>
+      <br><br>
+      JavaScript<br>
+      Python<br>
+      HTML<br>
+      C++<br>
+      C#
+    </td>
+    <td width="20%" align="center">
       <strong>Backend</strong>
       <br><br>
       Node.js<br>
@@ -74,7 +83,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
       APIs REST<br>
       Microservicios
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <strong>Bases de datos</strong>
       <br><br>
       MySQL<br>
@@ -82,7 +91,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
       MongoDB<br>
       Supabase
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <strong>Android y moviles</strong>
       <br><br>
       Kotlin<br>
@@ -90,7 +99,7 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
       Material 3<br>
       Android Studio
     </td>
-    <td width="25%" align="center">
+    <td width="20%" align="center">
       <strong>Entorno y herramientas</strong>
       <br><br>
       Linux<br>
