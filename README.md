@@ -168,63 +168,9 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
   <tr>
     <td width="50%" valign="top">
 
-### Sistema de clínica privada
-
-Sistema para la gestión de pacientes, médicos, citas, facturación, pagos e historiales clínicos.
-
-**Tecnologías utilizadas:**
-
-- PostgreSQL
-- MongoDB
-- Node.js
-- Express
-- Funciones y procedimientos
-- Consultas y reportes
-
-<a href="https://github.com/MaestroMarioCoder/Proyecto-Final-Clinica-2026-06">
-  <img src="https://img.shields.io/badge/VER_PROYECTO-00E7FF?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-  </td>
-  <td width="50%" valign="top">
-
-### Pedidos Now
-
-Proyecto académico basado en una arquitectura de microservicios para gestionar pedidos, administración, contabilidad, paquetería y repartidores.
-
-**Participación:**
-
-- Administración
-- Contabilidad
-- Reportes
-- Comunicación entre servicios
-- Backend con Node.js
-
-<a href="https://github.com/arqui-apps/pedidos-now">
-  <img src="https://img.shields.io/badge/VER_PROYECTO-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-  </td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-
 ### Primer Login En Android
 
-Aplicacion Android desarrollada con Kotlin y Jetpack Compose. Implementa un login futurista con fondo negro tipo Matrix, caracteres verdes y azules antes del acceso, y una alerta roja intermitente despues de iniciar sesion correctamente.
-
-**Caracteristicas principales:**
-
-- Interfaz creada con Jetpack Compose y Material 3
-- Animacion Matrix personalizada con Canvas
-- Validacion basica de acceso
-- Cambio visual dinamico segun el estado del login
-- Pantalla final con mensaje de alerta
+Aplicacion Android desarrollada con Kotlin y Jetpack Compose. Implementa un login futurista con fondo negro tipo Matrix, validacion basica y alerta roja intermitente despues del acceso correcto.
 
 **Tecnologias utilizadas:**
 
@@ -236,6 +182,71 @@ Aplicacion Android desarrollada con Kotlin y Jetpack Compose. Implementa un logi
 
 <a href="https://github.com/MaestroMarioCoder/Primer-Login-En-Android">
   <img src="https://img.shields.io/badge/VER_PROYECTO-00E7FF?style=for-the-badge&logo=android&logoColor=000000"/>
+</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+### Proyecto Final Calculadora 2026
+
+Aplicacion web academica para resolver problemas de Investigacion de Operaciones y metodos numericos, con desarrollo paso a paso y apoyo visual para estudiantes.
+
+**Modulos principales:**
+
+- Metodo Grafico
+- Simplex
+- Gran M
+- Asignacion
+- Transporte
+- Punto Fijo
+
+<a href="https://github.com/MaestroMarioCoder/Proyecto-Final-Calculadora-2026">
+  <img src="https://img.shields.io/badge/VER_PROYECTO-7C3AED?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+</a>
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Pedidos Now
+
+Aplicacion de pedidos en linea desarrollada como proyecto academico para Arquitectura de Software II.
+
+**Enfoque del proyecto:**
+
+- Pedidos en linea
+- Administracion
+- Contabilidad
+- Reportes
+- Arquitectura de software
+
+<a href="https://github.com/MaestroMarioCoder/pedidos-now">
+  <img src="https://img.shields.io/badge/VER_PROYECTO-00E7FF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+### MaestroMarioCoder
+
+Repositorio del perfil profesional de GitHub. Contiene la presentacion, tecnologias, estadisticas, actividad reciente, proyectos destacados y enlaces de contacto.
+
+**Contenido principal:**
+
+- Perfil tecnico
+- Tecnologias y herramientas
+- Estadisticas de GitHub
+- Proyectos destacados
+- Contacto profesional
+
+<a href="https://github.com/MaestroMarioCoder/MaestroMarioCoder">
+  <img src="https://img.shields.io/badge/VER_PERFIL-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
   </td>
