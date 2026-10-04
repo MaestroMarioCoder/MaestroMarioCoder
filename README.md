@@ -137,11 +137,24 @@ Continúo fortaleciendo mi formación en arquitectura de software, servidores, b
 
 ## Estadísticas de GitHub
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaestroMarioCoder&theme=github_dark"
-  alt="Resumen de estadísticas de GitHub"
-/>
+<!-- ESTADISTICAS:INICIO -->
+<table>
+<tr><td valign="middle">
+<table>
+<tr><th align="left">Estadística</th><th>Total</th></tr>
+<tr><td>Repositorios públicos</td><td align="center"><strong>4</strong></td></tr>
+<tr><td>Repositorios originales</td><td align="center"><strong>3</strong></td></tr>
+<tr><td>Repositorios derivados (forks)</td><td align="center"><strong>1</strong></td></tr>
+<tr><td>Estrellas en repositorios originales</td><td align="center"><strong>1</strong></td></tr>
+<tr><td>Forks recibidos en repositorios originales</td><td align="center"><strong>0</strong></td></tr>
+<tr><td>Lenguajes principales detectados</td><td align="center"><strong>2</strong></td></tr>
+</table>
+</td><td align="center" valign="middle" width="30%">
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="180" alt="Octocat de GitHub"/>
+</td></tr>
+</table>
+<p><strong>Lenguajes principales de los repositorios:</strong> JavaScript · Kotlin</p>
+<!-- ESTADISTICAS:FIN -->
 
 <table width="49%" align="center">
   <tr>
@@ -161,7 +174,7 @@ Continúo fortaleciendo mi formación en arquitectura de software, servidores, b
 
 </div>
 
-> Las estadísticas automáticas se calculan según la actividad en repositorios públicos. La lista de lenguajes muestra tecnologías trabajadas en proyectos y prácticas.
+> Estadísticas de repositorios públicos, actualizadas automáticamente cada seis horas mediante GitHub Actions. Los lenguajes detectados corresponden al lenguaje principal de cada repositorio; la lista de lenguajes trabajados refleja mis conocimientos y prácticas.
 
 ---
 
@@ -259,3 +272,4 @@ Continúo fortaleciendo mi formación en arquitectura de software, servidores, b
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:312E81&height=140&section=footer"/>
+
