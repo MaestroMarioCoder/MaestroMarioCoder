@@ -26,24 +26,30 @@
 <h2>Perfil técnico</h2>
 
 <strong>Nombre:</strong> Mario Castillo<br>
-<strong>Usuario:</strong> MaestroMarioCoder<br>
+<strong>Usuario de GitHub:</strong> MaestroMarioCoder<br>
 <strong>Ubicación:</strong> Quetzaltenango, Guatemala<br>
-<strong>Formación:</strong> Ingeniería en Sistemas<br>
-<strong>Enfoque:</strong> Desarrollo backend<br>
-<strong>Arquitectura:</strong> APIs REST y microservicios<br>
-<strong>Bases de datos:</strong> SQL y NoSQL<br>
-<strong>Sistemas:</strong> Linux y Windows
+<strong>Formación:</strong> Estudiante de Ingeniería en Sistemas, Informática y Ciencias de la Computación<br>
+<strong>Desarrollo backend:</strong> Node.js, Express y APIs REST<br>
+<strong>Arquitectura de software:</strong> MVC (Modelo-Vista-Controlador) y microservicios<br>
+<strong>Bases de datos:</strong> Relacionales (SQL) y no relacionales (NoSQL)<br>
+<strong>Sistemas operativos:</strong> Linux y Windows<br>
+<strong>Hardware y emulación:</strong> Raspberry Pi 5 y RetroPie<br>
+<strong>Almacenamiento:</strong> Arreglos de discos RAID<br>
+<strong>Seguridad de redes:</strong> Configuración y administración de firewalls<br>
+<strong>Seguridad informática:</strong> Conocimientos básicos
 
   </td>
   <td width="50%" valign="top">
 
 <h2>Sobre mí</h2>
 
-Soy estudiante de Ingeniería en Sistemas, Informática y Ciencias de la Computación.
+Soy estudiante de Ingeniería en Sistemas, Informática y Ciencias de la Computación, con enfoque en el desarrollo backend.
 
-Me enfoco en el desarrollo backend con Node.js y Express, creación de APIs REST, gestión de bases de datos relacionales y no relacionales, Linux y sistemas organizados mediante arquitectura de microservicios.
+Desarrollo proyectos académicos con Node.js y Express, creación de APIs REST y gestión de bases de datos relacionales y no relacionales. Tengo conocimientos del patrón MVC (Modelo-Vista-Controlador) y de la arquitectura de microservicios.
 
-Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis conocimientos en arquitectura de software, servidores, bases de datos y desarrollo de aplicaciones.
+También cuento con conocimientos en Linux, Windows, Raspberry Pi 5, RetroPie y arreglos de discos RAID, así como en configuración y administración de firewalls. Mi nivel en seguridad informática es básico.
+
+Continúo fortaleciendo mi formación en arquitectura de software, servidores, bases de datos y desarrollo de aplicaciones mediante proyectos académicos.
 
   </td>
   </tr>
@@ -81,7 +87,8 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
       Node.js<br>
       Express.js<br>
       APIs REST<br>
-      Microservicios
+      Microservicios<br>
+      MVC (Modelo-Vista-Controlador)
     </td>
     <td width="20%" align="center">
       <strong>Bases de datos</strong>
@@ -109,6 +116,20 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+## Hardware, almacenamiento y seguridad
+
+</div>
+
+- **Raspberry Pi 5:** conocimientos de esta plataforma para proyectos de hardware y sistemas.
+- **RetroPie:** conocimientos del entorno de emulación de videojuegos retro.
+- **Arreglos de discos RAID:** conocimientos de almacenamiento mediante conjuntos de discos RAID.
+- **Firewalls y seguridad de redes:** conocimientos de configuración y administración de distintos tipos de firewalls.
+- **Seguridad informática:** conocimientos básicos.
 
 ---
 
@@ -160,100 +181,40 @@ Actualmente continúo desarrollando proyectos académicos y fortaleciendo mis co
 
 <div align="center">
 
-## Proyectos destacados
+## Mis repositorios
 
 </div>
 
+<!-- PROYECTOS:INICIO -->
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Primer Login En Android
-
-Aplicacion Android desarrollada con Kotlin y Jetpack Compose. Implementa un login futurista con fondo negro tipo Matrix, validacion basica y alerta roja intermitente despues del acceso correcto.
-
-**Tecnologias utilizadas:**
-
-- Kotlin
-- Jetpack Compose
-- Material 3
-- Android SDK
-- Gradle
-
-<a href="https://github.com/MaestroMarioCoder/Primer-Login-En-Android">
-  <img src="https://img.shields.io/badge/VER_PROYECTO-00E7FF?style=for-the-badge&logo=android&logoColor=000000"/>
-</a>
-
-  </td>
-  <td width="50%" valign="top">
-
-### Proyecto Final Calculadora 2026
-
-Aplicacion web academica para resolver problemas de Investigacion de Operaciones y metodos numericos, con desarrollo paso a paso y apoyo visual para estudiantes.
-
-**Modulos principales:**
-
-- Metodo Grafico
-- Simplex
-- Gran M
-- Asignacion
-- Transporte
-- Punto Fijo
-
-<a href="https://github.com/MaestroMarioCoder/Proyecto-Final-Calculadora-2026">
-  <img src="https://img.shields.io/badge/VER_PROYECTO-7C3AED?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-</a>
-
-  </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Proyecto-Final-Calculadora-2026</h3>
+<p>Aplicacion web academica para resolver problemas de Investigacion de Operaciones y metodos numericos. Incluye Metodo Grafico, Simplex, Gran M, Asignacion, Transporte y Punto Fijo, con desarrollo paso a paso, resultados claros y apoyo visual para estudiantes.</p>
+<p><strong>Lenguaje principal:</strong> JavaScript</p>
+<a href="https://github.com/MaestroMarioCoder/Proyecto-Final-Calculadora-2026"><img src="https://img.shields.io/badge/VER_REPOSITORIO-00E7FF?style=for-the-badge&amp;logo=github&amp;logoColor=000000" alt="Ver Proyecto-Final-Calculadora-2026"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>MaestroMarioCoder</h3>
+<p>Perfil profesional y proyectos de desarrollo de software.</p>
+<a href="https://github.com/MaestroMarioCoder/MaestroMarioCoder"><img src="https://img.shields.io/badge/VER_REPOSITORIO-00E7FF?style=for-the-badge&amp;logo=github&amp;logoColor=000000" alt="Ver MaestroMarioCoder"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Primer-Login-En-Android</h3>
+<p><strong>Lenguaje principal:</strong> Kotlin</p>
+<a href="https://github.com/MaestroMarioCoder/Primer-Login-En-Android"><img src="https://img.shields.io/badge/VER_REPOSITORIO-00E7FF?style=for-the-badge&amp;logo=github&amp;logoColor=000000" alt="Ver Primer-Login-En-Android"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>pedidos-now</h3>
+<p>Aplicación de pedidos en línea, desarrollada como proyecto académico para Arquitectura de Software II.</p>
+<p>Fork de un proyecto.</p>
+<a href="https://github.com/MaestroMarioCoder/pedidos-now"><img src="https://img.shields.io/badge/VER_REPOSITORIO-00E7FF?style=for-the-badge&amp;logo=github&amp;logoColor=000000" alt="Ver pedidos-now"/></a>
+</td>
+</tr>
 </table>
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Pedidos Now
-
-Aplicacion de pedidos en linea desarrollada como proyecto academico para Arquitectura de Software II.
-
-**Enfoque del proyecto:**
-
-- Pedidos en linea
-- Administracion
-- Contabilidad
-- Reportes
-- Arquitectura de software
-
-<a href="https://github.com/MaestroMarioCoder/pedidos-now">
-  <img src="https://img.shields.io/badge/VER_PROYECTO-00E7FF?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
-
-  </td>
-  <td width="50%" valign="top">
-
-### MaestroMarioCoder
-
-Repositorio del perfil profesional de GitHub. Contiene la presentacion, tecnologias, estadisticas, actividad reciente, proyectos destacados y enlaces de contacto.
-
-**Contenido principal:**
-
-- Perfil tecnico
-- Tecnologias y herramientas
-- Estadisticas de GitHub
-- Proyectos destacados
-- Contacto profesional
-
-<a href="https://github.com/MaestroMarioCoder/MaestroMarioCoder">
-  <img src="https://img.shields.io/badge/VER_PERFIL-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-  </td>
-  </tr>
-</table>
-
-<br>
+<!-- PROYECTOS:FIN -->
 
 <div align="center">
 
